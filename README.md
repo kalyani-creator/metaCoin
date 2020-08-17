@@ -1,1 +1,1 @@
-metacoin
+metacoin Test
